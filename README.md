@@ -1,16 +1,17 @@
-## Hi there 👋
+# 안녕하세요, {오원석}입니다
 
-<!--
-**WonSeok840/WonSeok840** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 지금 관심 있는 것
+* {관심 분야 1}
+* {관심 분야 2}
 
-Here are some ideas to get you started:
+## 대표 프로젝트
+* {프로젝트 이름 1}  {한 줄 설명}  {링크}
+* {프로젝트 이름 2}  {한 줄 설명}  {링크}
+* {프로젝트 이름 3}  {한 줄 설명}  {링크}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 기술 스택
+* {언어  프레임워크  도구}
+
+## 연락
+* Email  {주소}
+* LinkedIn  {링크}
