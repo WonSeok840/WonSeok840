@@ -54,8 +54,16 @@
 
 ### 1) 이미지 기반 낚시 환경 분석과 음성 기반 조행 기록을 결합한 스마트 낚시 플랫폼
 YOLO 기반 모바일 실시간 바닷물 탐지와 LoRA Fine-tuning·RAG 기반 sLLM을 결합해, 바다,날씨 환경에 맞는 미끼 상품 추천
-* [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ows980504/NAVIS_Project)
-  <p align="center">
+<p align="center">
+  <a href="https://github.com/ows980504/NAVIS_Project">
+    <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="./demo_00_56_to_01_01_fast.gif" width="700"/>
 </p>
-* Since : 2025.10.24~ 2026.01.10
+
+<p align="center">
+  <b>Project Period</b> | 2025.10.24 – 2026.01.10
+</p>
